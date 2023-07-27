@@ -44,4 +44,6 @@ a {
     background-color: rgb(121, 250, 233);
     font-weight: bold;
     font-size: 1em;
+    border: none;
+    box-shadow: 0.2em 0.3em 0.1em rgb(129, 127, 127);
 }
