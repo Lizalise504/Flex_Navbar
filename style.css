@@ -3,8 +3,7 @@
 }
 
 .nav{
-    width: 90em;
-    height: 5em;
+    height: auto;
     padding: 0 1em;
     background-color: #000;
     display: flex;
@@ -20,8 +19,7 @@
 
 .nav-links{
     list-style-type: none;
-    width: 32em;
-    margin: 0.63em;
+    margin: 0.63em 1em;
     font-weight: normal;
     font-size: 1.3em;
     display: flex;
@@ -32,6 +30,7 @@
 a {
     text-decoration: none;
     color: beige;
+    margin: 0.9em;
 }
 
 .active{
